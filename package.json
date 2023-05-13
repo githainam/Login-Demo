@@ -1,0 +1,18 @@
+{
+  "name": "git-test1",
+  "version": "1.0.0",
+  "description": "Example for git-text1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/githainam/Login-Demo.git)"
+  },
+  "author": "Hai Nam",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
